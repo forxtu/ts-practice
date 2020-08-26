@@ -1,0 +1,26 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forxtu/ts-practice.git"
+  },
+  "author": "Dan Merkulov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forxtu/ts-practice/issues"
+  },
+  "homepage": "https://github.com/forxtu/ts-practice#readme",
+  "devDependencies": {
+    "tslint": "^6.1.3"
+  },
+  "dependencies": {
+    "tslint-config-airbnb": "^5.11.2",
+    "typescript": "^4.0.2"
+  }
+}
