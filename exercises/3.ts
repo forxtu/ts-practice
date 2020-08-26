@@ -3,6 +3,7 @@
 Advanced Types
   - Type Guards
   - Using 'in' operator
+    Check if property exists in the object
 
 Exercise:
   Fix type errors in logAnimal function.

@@ -12,7 +12,8 @@ Exercise:
 
 export { };
 
-// TODO: Create interface/type Dog here
+// TODO: Create interface Dog here
+// interface Dog ...
 
 const dogs: unknown[] = [
   {
